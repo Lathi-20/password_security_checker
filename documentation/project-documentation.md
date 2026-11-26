@@ -29,8 +29,7 @@ The application checks user-entered passwords against security criteria and prov
 
 ## 7. Project Structure
 - `index.html` – Main application file.
-- `images/` – Contains background images.
-- `screenshots/` – Contains application screenshots.
+- `images/` – Contains background images and contains application screenshots.
 - `documentation/` – Contains project documentation.
 
 ## 8. How to Run
