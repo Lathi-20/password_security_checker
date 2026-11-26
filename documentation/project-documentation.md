@@ -40,4 +40,4 @@ The application checks user-entered passwords against security criteria and prov
 4. Enter a password and view the result.
 
 ## 9. Conclusion
-SecureFlow demonstrates basic web development skills and cybersecurity concepts related to password strength evaluation.
+SecureFlow demonstrates basic web development skills and cybersecurity concepts related to password strength evaluation.s
